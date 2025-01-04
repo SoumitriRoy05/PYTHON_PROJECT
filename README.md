@@ -1,5 +1,5 @@
 # PYTHON_PROJECT
-THIS REPOSITORY CONTAINS TWO BASIC PROJECTS USING PYTHON LANGUAGE:
+THIS REPOSITORY CONTAINS TWO BASIC PROJECTS USING PYTHON:
 1. SNAKE, WATER, GUN GAME:
 
     The Snake, Water, and Gun game is a Python-based interactive program that mimics the classic game played with hand gestures. In this game, a user competes against the computer to win by making strategic choices.
